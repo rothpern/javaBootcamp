@@ -1,0 +1,10 @@
+package lessons.lesson36Inheritance;
+
+public class Person {
+	
+	int id;
+	String firstName;
+	String lastName;
+	int age;
+	
+}
